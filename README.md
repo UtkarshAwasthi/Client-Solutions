@@ -1,5 +1,6 @@
 # Client-Solutions
 A Computer based Application developed using Core Java which Aim to digitize customers' information and to store and manage them easily using NetBeans IDE and Oracle Database.
+This Application is also INSTALLABLE.
 ### This applications has 3 forms. 
 #### LOGIN FORM:   
 To login for the admin who want to use the app which is also password protected and when user input the credentials it matches it with the database and accordingly display the message. 
